@@ -1,16 +1,34 @@
+
 ### Hi there 👋
 
-<!--
-**lalalune/lalalune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I go by Moon on the Internet. I'm a full-stack engineer and product designer with a passion for building things that make a difference.
 
-Here are some ideas to get you started:
+I'd love to work with other people on autonomous agents. Get in touch if you're interested!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Projects
+
+#### TinyAGI
+
+- Lightweight autonomous agent
+- https://github.com/AutonomousResearchGroup/tinyagi
+
+#### Autocoder
+
+- Self-coding AI agent
+- https://github.com/AutonomousResearchGroup/autocoder
+
+#### agentmemory
+
+- Dead-simple vector database for agents, documents and knowledge graphing
+- https://github.com/AutonomousResearchGroup/agentmemory
+
+#### easycompletion
+
+- Text and function completions with OpenAI (and local models using LocalAI!)
+- https://github.com/AutonomousResearchGroup/easycompletion
+
+### Groups I Support
+
+- **M3** https://m3org.com/
+- **Open Metaverse Interoperability Group** https://omigroup.org/
+- **Effective Acceleration** https://www.effectiveacceleration.org/
