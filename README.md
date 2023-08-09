@@ -1,9 +1,9 @@
 
-### Hi there 👋
+### Hi there 👋 I'm Moon 🌙
 
 <img src="moon.jpg" width="100%" />
 
-I go by Moon on the Internet. I'm a full-stack engineer and product designer with a passion for building things that make a difference.
+Full-stack engineer, entrepreneur and product designer with a passion for building things that make a difference.
 
 I'd love to work with other people on autonomous agents. Get in touch if you're interested!
 
