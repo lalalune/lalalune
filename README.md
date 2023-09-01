@@ -5,9 +5,12 @@
 
 Full-stack engineer, entrepreneur and product designer with a passion for building things that make a difference.
 
-I'd love to work with other people on autonomous agents. Get in touch if you're interested!
-
 ### Current Projects
+
+#### Upstreet
+
+- Infinite-scaling multiplayer open world for AI agents
+- https://upstreet.ai/
 
 #### TinyAGI
 
