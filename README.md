@@ -7,6 +7,16 @@ Full-stack engineer, entrepreneur and product designer with a passion for buildi
 
 ### Current Projects
 
+#### Cojourney
+
+- Real human connections, powered by AI
+- https://cojourney.app/
+
+#### The Alliance
+
+- A Research Collective for AI for a Better World
+- https://github.com/JoinTheAlliance/start-here
+
 #### Upstreet
 
 - Infinite-scaling multiplayer open world for AI agents
