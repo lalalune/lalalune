@@ -55,3 +55,4 @@ Full-stack engineer, entrepreneur and product designer with a passion for buildi
 - **M3** https://m3org.com/
 - **Open Metaverse Interoperability Group** https://omigroup.org/
 - **Effective Acceleration** https://www.effectiveacceleration.org/
+- **The Alliance** https://github.com/JoinTheAlliance/start-here
