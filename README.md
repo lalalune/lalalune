@@ -7,6 +7,11 @@ Full-stack engineer, entrepreneur and product designer with a passion for buildi
 
 ### Current Projects
 
+#### Bgent
+
+- why bgent? because 'agent' was already taken on npm`
+- `npm install bgent`
+
 #### Cojourney
 
 - Real human connections, powered by AI
@@ -34,11 +39,13 @@ Full-stack engineer, entrepreneur and product designer with a passion for buildi
 
 #### agentmemory
 
+- pip install agentmemory
 - Dead-simple vector database for agents, documents and knowledge graphing
 - https://github.com/AutonomousResearchGroup/agentmemory
 
 #### easycompletion
 
+- pip install easycompletion
 - Text and function completions with OpenAI (and local models using LocalAI!)
 - https://github.com/AutonomousResearchGroup/easycompletion
 
