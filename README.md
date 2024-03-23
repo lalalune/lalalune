@@ -9,6 +9,7 @@ Full-stack engineer, entrepreneur and product designer with a passion for buildi
 
 #### Bgent
 
+- https://bgent.org
 - why bgent? because 'agent' was already taken on npm`
 - `npm install bgent`
 
