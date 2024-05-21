@@ -8,7 +8,12 @@ Full-stack engineer, entrepreneur and product designer with a passion for buildi
 ### Website / Portfolio
 - https://moon.graphics/
 
-### Current Projects
+### Past Projects
+
+#### Character Studio
+
+- https://github.com/M3-org/characterstudio
+- Free open source character creator, built in javascript
 
 #### Bgent
 
