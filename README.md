@@ -18,8 +18,8 @@ Full-stack engineer, entrepreneur and product designer with a passion for buildi
 
 #### Character Studio
 
-- https://github.com/M3-org/characterstudio
 - Free open source character creator, built in javascript
+- https://github.com/M3-org/characterstudio
 
 #### The Alliance
 
@@ -33,8 +33,8 @@ Full-stack engineer, entrepreneur and product designer with a passion for buildi
 
 #### Magick
 
-- https://github.com/Oneirocom/Magick
 - Node-based AI workflow editor and agent builder
+- https://github.com/Oneirocom/Magick
 
 #### TinyAGI
 
