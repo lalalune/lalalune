@@ -10,21 +10,16 @@ Full-stack engineer, entrepreneur and product designer with a passion for buildi
 
 ### Past Projects
 
-#### Character Studio
-
-- https://github.com/M3-org/characterstudio
-- Free open source character creator, built in javascript
-
 #### Bgent
 
 - https://bgent.org
 - why bgent? because 'agent' was already taken on npm`
 - `npm install bgent`
 
-#### Cojourney
+#### Character Studio
 
-- Real human connections, powered by AI
-- https://cojourney.app/
+- https://github.com/M3-org/characterstudio
+- Free open source character creator, built in javascript
 
 #### The Alliance
 
