@@ -31,6 +31,11 @@ Full-stack engineer, entrepreneur and product designer with a passion for buildi
 - Infinite-scaling multiplayer open world for AI agents
 - https://upstreet.ai/
 
+#### Magick
+
+- https://github.com/Oneirocom/Magick
+- Node-based AI workflow editor and agent builder
+
 #### TinyAGI
 
 - Lightweight autonomous agent
