@@ -8,7 +8,13 @@ Full-stack engineer, entrepreneur and product designer with a passion for buildi
 ### Website / Portfolio
 - https://moon.graphics/
 
-### Past Projects
+### Projects
+
+#### Simian
+
+- https://simian.mov
+- Synthetic data generator for image and video generation
+- `pip install simian`
 
 #### Bgent
 
