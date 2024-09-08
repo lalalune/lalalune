@@ -8,13 +8,15 @@ Full-stack engineer, entrepreneur and product designer with a passion for buildi
 ### Website / Portfolio
 - https://moon.graphics/
 
+### Blog
+- https://lalalune.github.io/blog
+
 ### Projects
 
-#### Simian
+#### Eliza
 
-- https://simian.mov
-- Synthetic data generator for image and video generation
-- `pip install simian`
+- https://github.com/lalalune/eliza
+- A powerful social agent on Twitter and Discord
 
 #### Bgent
 
@@ -26,16 +28,6 @@ Full-stack engineer, entrepreneur and product designer with a passion for buildi
 
 - Free open source character creator, built in javascript
 - https://github.com/M3-org/characterstudio
-
-#### The Alliance
-
-- A Research Collective for AI for a Better World
-- https://github.com/JoinTheAlliance/start-here
-
-#### Upstreet
-
-- Infinite-scaling multiplayer open world for AI agents
-- https://upstreet.ai/
 
 #### Magick
 
