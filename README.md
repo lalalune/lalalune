@@ -1,9 +1,9 @@
 
-### Hi there 👋 I'm Moon 🌙
+### Hi there 👋 I'm Shaw 🌙
 
 <img src="moon.jpg" width="100%" />
 
-Full-stack engineer, entrepreneur and product designer with a passion for building things that make a difference.
+Full-stack engineer, entrepreneur and product designer with a passion for building things that make a difference
 
 ### Website / Portfolio
 - https://moon.graphics/
@@ -15,7 +15,7 @@ Full-stack engineer, entrepreneur and product designer with a passion for buildi
 
 #### Eliza
 
-- https://github.com/lalalune/eliza
+- https://github.com/ai16z/eliza
 - A powerful social agent on Twitter and Discord
 
 #### Bgent
@@ -37,24 +37,24 @@ Full-stack engineer, entrepreneur and product designer with a passion for buildi
 #### TinyAGI
 
 - Lightweight autonomous agent
-- https://github.com/AutonomousResearchGroup/tinyagi
+- https://github.com/ai16z/tinyagi
 
 #### Autocoder
 
 - Self-coding AI agent
-- https://github.com/AutonomousResearchGroup/autocoder
+- https://github.com/ai16z/autocoder
 
 #### agentmemory
 
 - pip install agentmemory
 - Dead-simple vector database for agents, documents and knowledge graphing
-- https://github.com/AutonomousResearchGroup/agentmemory
+- https://github.com/ai16z/agentmemory
 
 #### easycompletion
 
 - pip install easycompletion
 - Text and function completions with OpenAI (and local models using LocalAI!)
-- https://github.com/AutonomousResearchGroup/easycompletion
+- https://github.com/ai16z/easycompletion
 
 ### Groups I Support
 
