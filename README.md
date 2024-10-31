@@ -5,13 +5,11 @@
 
 Full-stack engineer, entrepreneur and product designer with a passion for building things that make a difference
 
-### Website / Portfolio
-- https://moon.graphics/
+### Come Join Us At ai16z!
+If you want to make decentralized finance fairer and safer, come be a partner at ai16z. https://github.com/ai16z
+We need brilliant minds and strong willed leaders to create financial freedom for everyone.
 
-### Blog
-- https://lalalune.github.io/blog
-
-### Projects
+# Previous Projects
 
 #### Eliza
 
