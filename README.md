@@ -5,17 +5,10 @@
 
 Full-stack engineer, entrepreneur and product designer with a passion for building things that make a difference
 
-### Come join us at ai16z!
-If you want to make decentralized finance fairer and safer, come be a partner at [ai16z](https://github.com/ai16z)
-
-We need brilliant minds and strong willed leaders to create financial freedom for everyone.
+### Come join us at elizaOS!
+If you want to make autonomous AI agents, come join us at [elizaOS](https://github.com/elizaOS)
 
 # Previous Projects
-
-#### Eliza
-
-- https://github.com/ai16z/eliza
-- A powerful social agent on Twitter and Discord
 
 #### Bgent
 
