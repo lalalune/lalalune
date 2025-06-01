@@ -4,3 +4,15 @@ Full-stack engineer, entrepreneur and product designer with a passion for buildi
 
 ### Come join us at elizaOS!
 If you want to make autonomous AI agents, come join us at [elizaOS](https://github.com/elizaOS)
+
+<!-- WALLET-LINKING-BEGIN
+{
+  "lastUpdated": "2025-06-01T01:42:03.773Z",
+  "wallets": [
+    {
+      "chain": "solana",
+      "address": "5rZBMzhX4NiEwSGiJidacmY7HfGWKT41sE1PnpXBSLvG"
+    }
+  ]
+}
+WALLET-LINKING-END -->
