@@ -20,3 +20,5 @@ If you want to make autonomous AI agents, come join us at [elizaOS](https://gith
   ]
 }
 WALLET-LINKING-END -->
+
+[![Tip in Crypto](https://tip.md/badge.svg)](https://tip.md/lalalune)
